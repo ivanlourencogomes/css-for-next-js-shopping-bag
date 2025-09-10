@@ -8,9 +8,13 @@
         justify-content: center;
         flex-wrap: wrap;
         gap: 20px; 
-    }
 
-    button.load {
-        margin-top: 40px;
-    }
+        p {
+            width: 100%; 
+        }
+
+        button {
+            width: 110px;
+        }
+    }   
 }
