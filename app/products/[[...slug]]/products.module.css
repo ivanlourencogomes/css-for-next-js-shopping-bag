@@ -9,11 +9,11 @@
         flex-wrap: wrap;
         gap: 20px; 
 
-        p {
+        & p {
             width: 100%; 
         }
 
-        button {
+        & button {
             width: 110px;
         }
     }   

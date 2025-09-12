@@ -1,5 +1,5 @@
 .hero {
-    img {
+    & img {
         width: 100%;
     }
 }
